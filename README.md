@@ -1,5 +1,7 @@
 # To Run
 
+[![CodeQL](https://github.com/SOliv1/flash-cards-ca/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SOliv1/flash-cards-ca/actions/workflows/codeql-analysis.yml)
+
 Run `npm start` in the project root and the app will be available on port 3000.
 
 npm install --save react-router-dom@5.2.0
