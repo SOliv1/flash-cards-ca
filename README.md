@@ -4,7 +4,7 @@
 
 Run `npm start` in the project root and the app will be available on port 3000.
 
-npm install --save react-router-dom@5.2.0
+
 # State
 
 The app's state is totally normalized, with slices for topics, quizzes, and cards.
