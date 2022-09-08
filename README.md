@@ -1,6 +1,7 @@
 # To Run
 
 [![CodeQL](https://github.com/SOliv1/flash-cards-ca/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SOliv1/flash-cards-ca/actions/workflows/codeql-analysis.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6693605e-ab3a-456a-9f94-68db2f3c5a49/deploy-status?branch=master)](https://app.netlify.com/sites/flash-cards-react-router-ca/deploys)
 
 Run `npm start` in the project root and the app will be available on port 3000.
 
